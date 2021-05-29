@@ -1,20 +1,4 @@
 
-Satyam892
-/
-Satyam892
-Code
-Pull requests
-Actions
-Projects
-2
-Security
-Insights
-Satyam892/Program to read time in HH:MM:SS format to convert into total seconds using class
-@Satyam892
-Satyam892 Program to read time in HH:MM:SS format to convert into total second…
-…
- 1 contributor
-55 lines (47 sloc)  1.04 KB
 // Write a Program to read time in HH:MM:SS format to convert into total seconds using class//
 
 #include<iostream>
